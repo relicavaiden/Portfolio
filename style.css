@@ -1,8 +1,9 @@
 body {
     font-family: "monospace", "sans-serif";
+    background-color: whitesmoke;
   }
   .font-primary {
-    color: #00ABAE;
+    color: #ff0000;
   }
   .title-icon {
     font-size: 28px;
@@ -41,7 +42,7 @@ body {
   }
   #about .skills {
     font-size: 14px;
-    color: #00ABAE;
+    color: #ff0000;
     margin-bottom: 10px;
   }
   #about .email {
